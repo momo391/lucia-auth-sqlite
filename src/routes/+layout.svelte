@@ -7,6 +7,5 @@
 </script>
 
 <ModeWatcher />
-<div class="font-sans min-h-screen">
-	{@render children()}
-</div>
+
+{@render children()}
